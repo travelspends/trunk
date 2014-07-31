@@ -5,7 +5,7 @@
 	<artifactId>travel-spends</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>travel-spends Maven Webapp</name>
+	<name>travel-spends Maven Webapp edit testing</name>
 
 	<build>
 		<finalName>travel-spends</finalName>
